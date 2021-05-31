@@ -1,1 +1,3 @@
-# doujinvalues.github.io
+# Doujin Values
+Doujin Values是一款基于[8values](https://github.com/8values/8values.github.io)源代码所开发的**同人创作的、娱乐性质的价值观光谱测试**。在原本八维政治立场测试的基础上，增加了综合坐标轴光谱的测试模型。
+声明：测试命题和光谱判断的开发者个人主观倾向很强，是一款纯娱乐性质的测试游戏，**讨论请勿上升至严肃层面**，也请不要以此攻击他人的创作观。
